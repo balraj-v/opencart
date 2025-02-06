@@ -1,0 +1,41 @@
+19:28:41.085 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+19:28:41.244 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@4879dfad: 67 ms
+19:28:41.244 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@4758820d: 0 ms
+19:28:41.252 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@495fac5f: 8 ms
+19:28:41.257 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@25bfcafd: 4 ms
+19:28:41.258 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4b6690c0: 0 ms
+19:28:41.258 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@46268f08: 0 ms
+19:30:07.142 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\VBALRA~1\AppData\Local\Temp\testng-eclipse-1082670990\testng-customsuite.xml"
+19:30:07.307 [main] INFO  org.testng.internal.Utils - [[TestNGClassFinder]] Unable to read methods on class testCases.TC002_LoginTest - unable to resolve class reference IOException
+19:30:07.316 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:30:07.320 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+19:30:07.320 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:30:07.320 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:30:07.321 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:30:07.321 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:30:07.322 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:30:07.322 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:30:07.322 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:30:07.322 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:30:07.333 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\V Balraj\AppData\Local\Temp\testng-eclipse-1082670990\testng-customsuite.xml
+
+19:30:07.356 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+19:30:07.445 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@2b4c1d96: 57 ms
+19:30:07.446 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@45fd9a4d: 1 ms
+19:30:07.456 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@737a135b: 10 ms
+19:30:07.464 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@495fac5f: 8 ms
+19:30:07.464 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@76012793: 0 ms
+19:30:07.464 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@635572a7: 0 ms
+19:33:34.136 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\V Balraj\java_main\workspace\opencart\testng.xml"
+19:33:34.423 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\V Balraj\java_main\workspace\opencart\testng.xml
+
+19:33:39.669 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest  *****
+19:33:39.802 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+19:33:40.600 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+19:33:40.602 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+19:33:42.281 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+19:33:42.325 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest  *****
+19:33:46.837 [main] INFO  testCases.TC002_LoginTest - ****** Staring TC002_LoginTest *********
+19:33:49.248 [main] INFO  testCases.TC002_LoginTest - *********** Finished TC002_LoginTest ***********
